@@ -1,0 +1,28 @@
+[debug] [2024-04-11T01:43:54.143Z] ----------------------------------------------------------------------
+[debug] [2024-04-11T01:43:54.146Z] Command:       /snap/node/8480/bin/node /usr/local/bin/firebase init hosting
+[debug] [2024-04-11T01:43:54.147Z] CLI Version:   13.7.1
+[debug] [2024-04-11T01:43:54.147Z] Platform:      linux
+[debug] [2024-04-11T01:43:54.147Z] Node Version:  v18.20.1
+[debug] [2024-04-11T01:43:54.148Z] Time:          Thu Apr 11 2024 02:43:54 GMT+0100 (West Africa Standard Time)
+[debug] [2024-04-11T01:43:54.148Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-11T01:43:54.158Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-04-11T01:43:54.159Z] > authorizing via signed-in user (marvellousogbo0@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/marvel/Documents/Shelf/todos
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
